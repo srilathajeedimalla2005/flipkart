@@ -1,0 +1,125 @@
+.body{
+    background-color: #e3d2d2;
+}
+.navbar{
+    background-color: #ffffff;
+    position: sticky;
+    top: 0px;
+    padding: 1.8%;
+    
+}
+
+.main{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 20px;
+    background-color: #ffffff;
+    margin-right: 20px;
+}
+.m{
+    text-decoration: none;
+    color: #000000;
+}
+.main1{
+    background-color: #ffffff;
+    margin-top: 20px;
+    display: flex;
+}
+.slide{
+    margin-top: 20px;
+}
+.b{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 150px;
+    margin: 2%;
+}
+.b1{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 150px;
+    margin: 2%;
+}
+.b2{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 200px;
+    margin: 2%;
+}
+.b3{
+    
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 220px;
+    margin: 2%;
+}
+.b4{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 150px;
+    margin: 2%;
+}
+.m1{
+    margin-top: 3%;
+}
+.t{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 170px;
+    margin: 2%;
+}
+.t1{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 220px;
+    margin: 2%;
+}
+.t2{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 220px;
+    margin: 2%;
+}
+.t3{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 150px;
+    margin: 2%;
+}
+.t4{
+    border: 1px solid;
+    border-radius: 3%;
+    height: 250px;
+    width: 250px;
+    margin: 2%;
+}
+.d1{
+    border: 1px solid;
+    background-color: black;
+    color: white;
+    display: flex;
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+    color: white;
+}
+.section1{
+    margin-right: 5%;
+    margin-left: 2%;
+}
+.section2{
+    margin-left: 5%;
+}
+.section3{
+    margin-left: 10%;
+}
